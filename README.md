@@ -5,11 +5,11 @@
 
 * 妙高市 指定文化財オープンデータ（調整中）
 
-    https://murachef.github.io/myoko-rekibun/siteibunkazai.html  
+    [https://murachef.github.io/myoko-rekibun/siteibunkazai.html](https://murachef.github.io/myoko-rekibun/siteibunkazai.html)  
 
 * 妙高市 歴史文化資源オープンデータ（調整中）
 
-    https://murachef.github.io/myoko-rekibun/rekisibunkasigen.html  
+    [https://murachef.github.io/myoko-rekibun/rekisibunkasigen.html](https://murachef.github.io/myoko-rekibun/rekisibunkasigen.html)
 
 ## 本体計画書
 
