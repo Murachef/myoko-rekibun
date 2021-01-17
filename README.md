@@ -15,8 +15,8 @@
 
 * 「妙高市歴史文化基本構想 H30」本構想 pdf - 文化庁
 
-    https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_115.pdf
+    [https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_115.pdf](https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_115.pdf)
 
 * 主旨および概要説明（2p）pdf - 文化庁
 
-    https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_27.pdf
+    [https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_27.pdf](https://www.bunka.go.jp/seisaku/bunkazai/rekishibunka/pdf/r1392234_27.pdf)
